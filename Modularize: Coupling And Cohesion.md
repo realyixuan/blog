@@ -79,9 +79,9 @@ def view3(request):
 # be as url module
 from django.urls import path                                                    
 urlpatterns = [
-    path('view1/', view1),
-    path('view2/', view2),
-    path('view3/', view3),
+    path('url1/', view1),
+    path('url2/', view2),
+    path('url3/', view3),
 ]
 ~~~
 

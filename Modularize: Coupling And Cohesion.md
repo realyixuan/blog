@@ -108,9 +108,9 @@ Its architecture is like:
 > 
 > &mdash; &lt;&lt;Structured Design&gt;&gt; Larry Constantine
 
-Frankly, the structure looks pretty, clear, and each component is at right place. If you want to change *url*, you can quickly find out where it is, and just as easy for *view*. Everything looks fine. However, if you go through it, you get to feel hard gradually. Here, a process is consciously separated into two modules `url` and `view`. It comprises three `url` components in url module, and three `view` components in view module. Though all components don't have any relationship with each other inside each single module, because url and view belong to two different module, hereby an invisible boundary appears between them. And corresponding url and view makes up a complete thread, so here the relationship between url and view is built manually through `path`.
+Frankly, the structure looks pretty, clear, and each component is at right place. If you want to change *url*, you can quickly find out where it is, and just as easy for *view*. Everything looks fine. However, if you go through it, you get to feel hard gradually. Here, a process is consciously separated into two modules *url* and *view*. It comprises three *url* components in *url module*, and three *view* components in *view module*. Though all components don't have any relationship with each other inside each single module, because *url* and *view* belong to two different module, hereby an invisible boundary appears between them. And corresponding *url* and *view* makes up a complete thread, so here the relationship between *url* and *view* is built manually through `path`.
 
-As we can see, url module and view module are tight coupled here. **Unconsciously coupling is bad**. Presumably, every time your changes will involve all modules in whole project to complete a small thread. You have to jump in and out every modules time by time to add or modify code, that also means you could potentially break others' code, which you wouldn't like to see, you must be much careful so that not to affect extraneous code, it's exhausting. This could also be as sign of bad architecture.
+As we can see, *url module* and *view module* are tight coupled here. **Unconsciously coupling is bad**. Presumably, every time your changes will involve all modules in whole project to complete a small thread. You have to jump in and out every modules time by time to add or modify code, that also means you could potentially break others' code, which you wouldn't like to see, you must be much careful so that not to affect extraneous code, it's exhausting. This could also be as sign of bad architecture.
 
 Why does it bring about this effect? Because a very important point is commonly overlooked: *problem structure*. If just change urls or views, it's easy, it's true definitely. But in reality, there is hardly the case. Typically, either feature developing or bug fixing is on as per function, that is to say, change either `url1`-`view1`, or `url2`-`view2`, or .... If there is a programmer being responsible for url module and another programmer being in charge of view module, then this architecture is suitable and great, but the fact is opposite.
 
@@ -146,7 +146,7 @@ def hello():
     return 'Hello, World!'
 ~~~
 
-And, things are moving forward further. In FastAPI, things grow this:
+And, things are moving forward further. In FastAPI, things have grown this:
 
 ~~~python
 @app.get("/", response_model=DataOut)
@@ -160,7 +160,7 @@ Obviously, it put more things together, and it gets better because putting relev
 > 
 > &mdash; The Zen of Python, by Tim Peters
 
-Those minds also embodied at everywhere of programming.
+Those minds also embodied at elsewhere of programming.
 
 > C++ Example of Bad Code That Jumps Around
 >

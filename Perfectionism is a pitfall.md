@@ -1,14 +1,12 @@
-# Perfectionism is pitfall
+# Perfectionism is a pitfall
 
 > It ain’t what you don’t know that gets you into trouble. It’s what you know for sure that just ain’t so.
 >
 > &mdash; Mark Twin
 
-Perfectionism is a very popular word in mainstream culture, and propaganda through the pompous, ignorant media led many to even believe that perfectionism is a great quality. But it's totally not true, on the exactly contrary, it's terrible. As a former perfectionist, I now deeply think perfect is antonym of practical. It mislead me long time, taking my much time and energy and giving me little. 
+Perfectionism is a very popular word in mainstream culture, and propaganda through the pompous, ignorant media led many to even believe that perfectionism is a great quality. But it's totally not true, on the exactly contrary, it's terrible. As a former perfectionist, I now deeply think perfect is antonym of practical. It misleaded me a lot long time, and I have been reflecting a lot recently. Here I give some my reflections. 
 
-Here I give the specific reasons:
-
-- Perfection does not exist in reality
+- **Perfection does not exist in reality**
 
 > Don't try for perfection because "good enough" is often just that.
 >
@@ -24,7 +22,7 @@ Because the quality of a thing is affected by many aspects, some of which are mu
 
 (Perfectionism is exactly more like an extremism of single aspect.)
 
-- Perfection is very expensive
+- **Perfection is very expensive**
 
 > If you never miss a plane, you're spending too much time in airports
 >
@@ -40,7 +38,7 @@ The story will never have ending. Besides the trouble of the countless details, 
 
 The countless travial details and much harder controlled subtles, are you sure it's worth spending so much just to reaching the perfection of nonsense.
 
-- Perfection is a notable reason of procrastination.
+- **Perfection is a notable reason of procrastination**
 
 > People call me a perfectionist, but I'm not. I'm a rightist. I do something until it's right, and then I move on to the next thing.
 >
@@ -56,7 +54,7 @@ The procrastination does appear not only before things' starting but also the ti
 
 And even worse, often some pefectionists pursue perfection not because they just simply want to be amazing perfect. It is just used as a cover for their fear. Some perfectionists severely lack self-confidence, extremly being afraid of exposing their shortcomings and making mistakes, being forced to become a perfectionist. The best way of covering their shortcoming is don't do it. Then the consequence obviously is: if you are able not to do it, don't do it, or put it off as long as possible as you can if not. Also ironically, perfectionism makes them less self-confident.
 
-- Perfectionism will take away your liberty
+- **Perfectionism will take away your liberty**
 
 > When things are perfect, that’s when you need to worry most.
 >
@@ -72,14 +70,13 @@ But if things have been perfect will there be no worries? No, totally not. The l
 
 So why do you want your desktop highly tidy? You should know the feeling comes with price which is huge, and you won't and can't pay it off once, perfection is like a loan in which only principal has been repaid when you get things perfect, but you need to pay exorbitant interest every day.
 
-: Where is perfection suitable ?
+---
+
+*Where is perfection suitable?*
 
 simple and short-term thing. 
 
-: So does perfectionism do any good?
+*So does perfectionism do any good?*
 
 On the plus side: "keep you hungry, keep you foolish".
-
-
-
 

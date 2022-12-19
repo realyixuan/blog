@@ -6,7 +6,7 @@
 
 Perfectionism is a very popular word in mainstream culture, and propaganda through the pompous, ignorant media led many to even believe that perfectionism is a great quality. However it's totally not true, on the exactly contrary, it's terrible. As a former perfectionist, I now deeply think perfect is antonym of practical. It misleaded me a lot long time, and I have been reflecting a lot recently. Here I give some my reflections. 
 
-## Reflections
+#### Reflections
 
 - **Perfection does not exist in reality**
 
@@ -70,7 +70,7 @@ But if things have been perfect will there be no worries? No, totally not. The l
 
 So why do you want your desktop highly tidy? You should know the feeling comes with price which is huge, and you won't and can't pay it off once, perfection is like a loan in which only principal has been repaid when you get things perfect but you need to pay exorbitant interest next every day.
 
-## Conclusion
+#### Conclusion
 
 Perfectionism is a temptation to overcome not a quality to have. Overcoming perfectionism is not easy, you must have many other good qualities such as self-confidence, big picture etc, but just being aware of this is already a good start.
 

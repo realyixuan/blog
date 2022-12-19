@@ -76,11 +76,11 @@ Perfectionism is a temptation to overcome not a quality to have. Overcoming perf
 
 ---
 
-- *Where is perfection suitable?*
+*Where is perfection suitable?*
 
 simple and short-term thing. 
 
-- *So does perfectionism do any good?*
+*So does perfectionism do any good?*
 
 On the plus side: "keep you hungry, keep you foolish".
 
